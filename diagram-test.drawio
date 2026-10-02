@@ -7,11 +7,17 @@
         <mxCell id="o-yYU_L8QymYSbY3yLA6-3" edge="1" parent="1" source="o-yYU_L8QymYSbY3yLA6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o-yYU_L8QymYSbY3yLA6-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o-yYU_L8QymYSbY3yLA6-6" edge="1" parent="1" source="o-yYU_L8QymYSbY3yLA6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o-yYU_L8QymYSbY3yLA6-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o-yYU_L8QymYSbY3yLA6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;convertToSvg=1;svgWhiteSpace=wrap;" value="ControlStrategy" vertex="1">
           <mxGeometry height="60" width="155" x="365" y="80" as="geometry" />
         </mxCell>
         <mxCell id="o-yYU_L8QymYSbY3yLA6-2" parent="1" style="html=1;rounded=0;whiteSpace=wrap;" value="QualityAttributeSpecification" vertex="1">
           <mxGeometry height="60" width="155" x="365" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="o-yYU_L8QymYSbY3yLA6-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;convertToSvg=1;svgWhiteSpace=wrap;" value="PerformanceIndicatorSpecification" vertex="1">
+          <mxGeometry height="60" width="200" x="560" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
